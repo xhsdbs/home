@@ -1,0 +1,38 @@
+
+<!doctype html>
+<html class="no-js" lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<!--[If IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge"/><![endif]-->
+	<title>Share Art</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
+	<link rel="shortcut icon" href="/static/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/favorite.png">
+<link rel="stylesheet" href="/static/css/main_201409241745.all.css">
+	<link rel="stylesheet" href="/static/css/book-detail.css">
+	<meta property="og:url" content="http://www.acornpub.co.kr/book/web-analytics1">
+	<meta property="og:title" content="실전 웹사이트 분석 A to Z">
+	<meta property="og:type" content="book">
+	<meta property="og:image" content="http://www.acornpub.co.kr/image/book/kj/vj/1381410507ojEx75Ba.jpg">
+	<meta property="og:description" content="실제 사례를 통해 단계별 가이드를 보여주는 웹사이트 분석 전략의 바이블">
+	<meta property="og:locale" content="ko_KR">
+	<meta property="og:site_name" content="에이콘출판사">
+	<meta property="book:isbn" content="9788960770492">
+	<meta property="book:release_date" content="2008-07-28T00:00:00">
+	<meta property="og:updated_time" content="2013-10-10T22:08:30">
+	<script src="/static/js/modernizr.custom.min.js"></script>
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-52638-2']);
+		_gaq.push(['_setDomainName', 'acornpub.co.kr']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+</head>
