@@ -59,7 +59,27 @@
         .item {
             margin: 0 30px 0 30px;
         }
-        header {
+        @font-face {
+            font-family: 'Noto Sans KR';
+            font-style: normal;
+            font-weight: normal;
+            src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.woff2) format('woff2'),
+                 url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.woff) format('woff'),
+                 url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.otf) format('opentype');
+         }
+         @font-face {
+             font-family: 'Noto Sans KR';
+             font-style: normal;
+             font-weight: bold;
+             src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff2) format('woff2'),
+                  url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff) format('woff'),
+                  url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.otf) format('opentype');
+         }
+         body {
+            font-family: 'Noto Sans KR', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            letter-spacing: -0.5px;
+        }
 
    header {
        position: fixed;
