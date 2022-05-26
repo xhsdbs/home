@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<div>
+		<div style="background-color: black;">
+			<div style="text-align: center; color: white; " >
+				<div style="display: inline-block; width: 600px;">
+					<span style="margin: 20px;">전시정보 플랫폼</span>
+					<span style="margin: 20px; font-size: 28px; font-weight: bold;">Share Art</span> 
+				</div>
+				<div style="display: inline-block; width:400px; text-align: right; margin-top: 20px;">
+					<ul style="list-style-type: none; vertical-align: middle;">
+						<li style="margin: 10px;  color: white;">회원가입</li>
+						<li style="margin: 10px;  color: white;">로그인</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div>
+			<div style="text-align: center; display: inline-block; color: white; background-color: purple; width: 15%; vertical-align: top; font-size: 28px; padding: 14px;">
+				<span >미술의 역사</span>
+			</div>
+			<div style="display: inline-block; width: 75%">
+				<table style="width: 800px; margin: 0 auto;" border="1">
+					<tr align="center">
+						<th>번호</th>
+						<th>제목</th>
+						<th>날짜</th>
+						<th>조회수</th>
+					</tr>
+					<tr align="center">
+						<td>13</td>
+						<td>그리스 로마 신화 속 주인공들</td>
+						<td>2016.03.07</td>
+						<td>333</td>
+					</tr>
+					<tr align="center">
+						<td>12</td>
+						<td>초현실주의마술</td>
+						<td>2015.03.27</td>
+						<td>331</td>
+					</tr>
+					<tr align="center">
+						<td>11</td>
+						<td>독일 표현주의</td>
+						<td>2014.03.07</td>
+						<td>112</td>
+					</tr>
+					<tr align="center">
+						<td>10</td>
+						<td>판화의 종류와 특징</td>
+						<td>2014.01.07</td>
+						<td>226</td>
+					</tr>
+				
+				</table>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
