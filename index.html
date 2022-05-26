@@ -30,8 +30,40 @@
 			</div>
 		</div>
 		<div>
-			<img alt="" src="pic.jpg">
-		</div>
+		<div class="section">
+		<div class="article" align="center">
+			<div id="cal0" style="display:inline-block;">
+          <div class="calendar" style="display:inline-block;">
+            <div class="calheader">
+              <div class="year-month"></div>
+              <div class="calnav">
+                <button class="nav-btn go-prev" onclick="prevMonth()">&lt;</button>
+                <button class="nav-btn go-today" onclick="goToday()">Today</button>
+                <button class="nav-btn go-next" onclick="nextMonth()">&gt;</button>
+              </div>
+            </div>
+            <div class="calmain">
+              <div class="days">
+                <div class="day">일</div>
+                <div class="day">월</div>
+                <div class="day">화</div>
+                <div class="day">수</div>
+                <div class="day">목</div>
+                <div class="day">금</div>
+                <div class="day">토</div>
+              </div>
+              <div class="dates" id="dats"></div>
+            </div>
+          </div>
+          <div width="500px" style="display:inline-block;">
+            <h1>전시정보</h1><br>
+            <table id="tbl" width="500px" border=1 style="border-collapse: collapse;">
+                 <tr><td><p id="schedtitle" width="500px" ></p></td></tr>
+                 <tr><td><p id="schedinfo" width="500px" ></p></td></tr>
+                 <tr><td><img src="ei_3658.jpeg" id="schedimg" width="500px" ></td></tr>
+            </table>
+          </div>
+	</div>
 	</div>
 
 </body>
